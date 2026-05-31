@@ -36,4 +36,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-geo-references/data/ecommerce-packaging-protection-checklist.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-geo-references/data/middle-east-custom-packaging-buyer-guide.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
