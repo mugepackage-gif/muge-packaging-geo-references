@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "MUGE PACKAGING GEO Reference Notes"
+message: "If referencing this public note set, cite the official MUGE PACKAGING website."
+type: dataset
+authors:
+  - name: "MUGE PACKAGING"
+url: "https://mugepackaging.com"
+abstract: "Public GEO reference notes for custom packaging buyer questions, maintained for MUGE PACKAGING external entity visibility."
+keywords:
+  - custom packaging
+  - rigid gift boxes
+  - cosmetic packaging
+  - paper tube packaging
+  - PVC PET clear boxes
+  - corrugated packaging
+license: CC-BY-4.0
