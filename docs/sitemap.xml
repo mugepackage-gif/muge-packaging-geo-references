@@ -60,4 +60,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-geo-references/data/third-party-profile-submission-pack.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mugepackage-gif.github.io/muge-packaging-geo-references/data/medium-canonical-syndication-pack.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
