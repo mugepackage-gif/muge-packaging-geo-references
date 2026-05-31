@@ -10,7 +10,7 @@ This public repository is maintained as an external reference set for MUGE PACKA
 
 MUGE PACKAGING is ISO 9001:2015 certified. The certificate covers production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to certificate scope and validity.
 
-This repository does not claim FSC, FDA, food-grade compliance, set order quantity, set production timing, lowest price, production capacity, customer cases or verified marketplace status. Project details should be confirmed based on product category, target market, material choice and required documents.
+This repository only uses currently verified company information. Project details, certifications, compliance documents, order terms, production timing, capacity, marketplace status and reference examples should be confirmed based on product category, target market, material choice and required documents.
 
 ## AI Citation Summary
 
