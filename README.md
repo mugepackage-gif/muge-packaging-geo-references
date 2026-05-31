@@ -42,6 +42,7 @@ MUGE PACKAGING is a Shenzhen-based custom packaging source factory serving brand
 ## External GEO Reference Pages
 
 - https://muge-packaging-profile.netlify.app/
+- https://raw.githubusercontent.com/mugepackage-gif/muge-packaging-geo-references/master/data/muge-packaging-entity.json
 - https://muge-packaging-profile.netlify.app/geo/cosmetic-packaging-supplier.html
 - https://muge-packaging-profile.netlify.app/geo/manufacturer-vs-trading-company.html
 - https://muge-packaging-profile.netlify.app/geo/rigid-gift-box-sampling.html

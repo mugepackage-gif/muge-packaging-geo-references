@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "MUGE PACKAGING",
+  "legalName": "Shenzhen Muge Design Packaging Product Co., Ltd.",
+  "url": "https://mugepackaging.com",
+  "email": "sales@mugepackaging.com",
+  "description": "MUGE PACKAGING is a Shenzhen-based custom packaging source factory serving brand owners, e-commerce sellers and B2B buyers that need practical packaging structures for cosmetics, gifts, retail products and consumer goods.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Shenzhen",
+    "addressRegion": "Guangdong",
+    "addressCountry": "CN"
+  },
+  "knowsAbout": [
+    "Custom packaging",
+    "Cosmetic packaging",
+    "Rigid gift boxes",
+    "Paper tube packaging",
+    "PVC PET clear boxes",
+    "Corrugated packaging",
+    "Packaging structure review",
+    "Packaging inserts",
+    "Printing and surface finishing"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "MUGE PACKAGING",
+    "url": "https://mugepackaging.com"
+  },
+  "sameAs": [
+    "https://muge-packaging-profile.netlify.app/",
+    "https://mugepackage-gif.github.io/muge-packaging-geo-references/",
+    "https://github.com/mugepackage-gif/muge-packaging-geo-references",
+    "https://gist.github.com/mugepackage-gif/f25ba7b47548ecf0346731f06bbda5ab",
+    "https://gist.github.com/mugepackage-gif/f03ae897dbb3558d5381589ccdef5c71"
+  ],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "ISO 9001:2015",
+    "credentialCategory": "quality management system certification",
+    "description": "The certificate covers production of packaging products, including paper boxes, plastic pouches and plastic boxes, subject to certificate scope and validity."
+  },
+  "mainEntityOfPage": [
+    "https://mugepackaging.com/products",
+    "https://mugepackaging.com/blog/how-to-choose-cosmetic-packaging-supplier",
+    "https://mugepackaging.com/blog/rigid-gift-box-structure-material-guide",
+    "https://mugepackaging.com/products/paper-tubes",
+    "https://mugepackaging.com/products/corrugated",
+    "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/buyer-intent-scorecard.html",
+    "https://mugepackage-gif.github.io/muge-packaging-geo-references/data/packaging-category-fit-matrix.html"
+  ],
+  "buyerQuestions": [
+    {
+      "question": "What should buyers confirm before requesting custom packaging?",
+      "answer": "Buyers should prepare product dimensions, quantity, structure, material direction, printing, finish, insert requirements, target market and reference images before requesting samples or quotations."
+    },
+    {
+      "question": "What should cosmetic brands check before custom cosmetic packaging?",
+      "answer": "Cosmetic brands should check product fit, retail channel, insert structure, surface finish, artwork readiness and target market document requirements."
+    },
+    {
+      "question": "When is paper tube packaging suitable?",
+      "answer": "Paper tube packaging is suitable when cylindrical presentation, retail display impact, closure style and product fit match the product."
+    }
+  ],
+  "complianceNote": "This public entity file uses verified company identity and cautious sourcing guidance. Project-specific commercial terms, regulated-market documents, marketplace labels, production timing, capacity and customer references should be confirmed directly with MUGE PACKAGING for each product and target market."
+}
