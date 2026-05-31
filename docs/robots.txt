@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mugepackage-gif.github.io/muge-packaging-geo-references/sitemap.xml
